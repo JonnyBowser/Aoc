@@ -1,0 +1,8 @@
+After solving 0 Options: 314584 Total: 314584
+After solving 1 Options: 1 Total: 314585
+After solving 2 Options: 1 Total: 314586
+After solving 3 Options: 3888 Total: 318474
+After solving 4 Options: 16 Total: 318490
+After solving 5 Options: 179899165 Total: 180217655
+After solving 6 Options: 243 Total: 180217898
+After solving 7 Options: 162 Total: 180218060
